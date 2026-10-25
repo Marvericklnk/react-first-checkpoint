@@ -1,5 +1,9 @@
 # First React Checkpoint
 
+[Live demo](https://marvericklnk.github.io/react-first-checkpoint/)
+
+![Project preview](screenshots/preview.jpg)
+
 A GoMyCode learning project built with React and React Bootstrap.
 
 ## Features
